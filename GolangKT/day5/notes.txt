@@ -1,0 +1,20 @@
+// mutex
+// testing
+// building web service 
+ - handling json 
+ - set headers
+ - conn to db
+ - routes declaration
+
+// exercises
+ 1. Create a slice, demonstrate shallow copy and deep copy on in 
+    {
+        -Shallow Copy: Copies references, so changes to one copy can affect the original.
+        -Deep Copy: Copies the actual data so that the original and copy are independent.
+        -Go doesn’t have a built-in deep copy function for complex types; you must manually implement it for each field.
+    }
+
+
+// Concurrency practice 
+    - multiple goroutines listening on one unbuffered channel 
+    - multiple goroutines sending on one unbuffered channel

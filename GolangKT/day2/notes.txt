@@ -1,0 +1,29 @@
+// value from function 
+// slice capacity
+// arithemetics
+// bit-wise operator
+// conditional
+// Loop
+// switch case 
+    - conditional
+    - Type assertion
+
+// defer
+// panic, recover
+// best practices
+   - casing
+   - simplicity over 
+
+// important standard lib
+    - time
+    - math
+    - strings
+    - strconv
+
+// error handling 
+// debugging
+
+
+Resources:
+    https://go-proverbs.github.io/
+    

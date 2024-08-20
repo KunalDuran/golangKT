@@ -1,0 +1,23 @@
+// break
+// continue
+// maps are unordered
+// package structure
+// exported and unexported variables/func
+// concurrency
+
+// standard libraries
+    - time
+    - math
+    - strings
+    - strconv
+    - net/http
+    - encoding/json
+    - sort
+    - os
+    - io
+
+// context package
+// sync package
+
+// concurrency - Out of order execution.
+// parallelism - Executing 2 or more instructions at the same time.

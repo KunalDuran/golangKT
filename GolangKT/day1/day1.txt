@@ -1,0 +1,40 @@
+## installation
+
+## Dependency Management
+   - gopath
+   - go modules
+   - go env
+   - go get
+
+
+## Types
+	-Boolean types
+	-Numeric types
+	-String types
+	-Array types
+	-Slice types
+	-Struct types
+	-Pointer types
+	-Function types
+	-Interface types
+	-Map types
+	-Channel types
+
+
+## go run
+## go build (GOOS)
+
+## Unused variables
+## Zero Value
+## defer
+## panic
+## recover
+
+
+## Resources
+    - FAQs
+    - go by example
+
+## Conditional
+## Loop
+## Methods

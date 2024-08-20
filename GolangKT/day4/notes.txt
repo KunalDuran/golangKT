@@ -1,0 +1,3 @@
+// exercises
+// go through application code
+// db connections - mongo, mysql
