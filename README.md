@@ -1,4 +1,4 @@
-Here are short explanations and code snippets for the topics you taught:
+Here are short explanations and code snippets for the topics we discussed:
 
 ---
 
